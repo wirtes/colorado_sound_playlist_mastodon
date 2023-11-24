@@ -3707,3 +3707,42 @@ Anchor tag:
 .get(href):
 https://api.composer.nprstations.org/v1/widget/itunes?artistName=Mitski&trackName=Bug Like An Angel&collectionName=The Land Is Inhospitable And So Are We&at=loUry/*nICo
 ***** Song: Bug Like An Angel skipped. Friday, November 24, 2023 02:35:15 PM
+/home/pi/python/colorado_sound_playlist_mastodon provided
+
+Anchor tag:
+<a class="itunes-link" href="https://api.composer.nprstations.org/v1/widget/itunes?artistName=Mitski&amp;trackName=Bug Like An Angel&amp;collectionName=The Land Is Inhospitable And So Are We&amp;at=loUry/*nICo" target="_blank">iTunes</a>
+.get(href):
+https://api.composer.nprstations.org/v1/widget/itunes?artistName=Mitski&trackName=Bug Like An Angel&collectionName=The Land Is Inhospitable And So Are We&at=loUry/*nICo
+***** Song: Bug Like An Angel skipped. Friday, November 24, 2023 02:36:16 PM
+
+Anchor tag:
+<a class="itunes-link" href="https://api.composer.nprstations.org/v1/widget/itunes?artistName=Mitski&amp;trackName=Bug Like An Angel&amp;collectionName=The Land Is Inhospitable And So Are We&amp;at=loUry/*nICo" target="_blank">iTunes</a>
+.get(href):
+https://api.composer.nprstations.org/v1/widget/itunes?artistName=Mitski&trackName=Bug Like An Angel&collectionName=The Land Is Inhospitable And So Are We&at=loUry/*nICo
+***** Song: Bug Like An Angel skipped. Friday, November 24, 2023 02:36:16 PM
+/home/pi/python/colorado_sound_playlist_mastodon provided
+
+Anchor tag:
+<a class="itunes-link" href="https://api.composer.nprstations.org/v1/widget/itunes?trackName=VOICE&amp;at=loUry/*nICo" target="_blank">iTunes</a>
+.get(href):
+https://api.composer.nprstations.org/v1/widget/itunes?trackName=VOICE&at=loUry/*nICo
+***** Song: ['VOICE'] skipped. Friday, November 24, 2023 02:37:15 PM
+
+Anchor tag:
+<a class="itunes-link" href="https://api.composer.nprstations.org/v1/widget/itunes?trackName=VOICE&amp;at=loUry/*nICo" target="_blank">iTunes</a>
+.get(href):
+https://api.composer.nprstations.org/v1/widget/itunes?trackName=VOICE&at=loUry/*nICo
+***** Song: ['VOICE'] skipped. Friday, November 24, 2023 02:37:15 PM
+/home/pi/python/colorado_sound_playlist_mastodon provided
+
+Anchor tag:
+<a class="itunes-link" href="https://api.composer.nprstations.org/v1/widget/itunes?artistName=Belle &amp; Sebastian&amp;trackName=The State I Am In&amp;collectionName=Tigermilk&amp;at=loUry/*nICo" target="_blank">iTunes</a>
+.get(href):
+https://api.composer.nprstations.org/v1/widget/itunes?artistName=Belle & Sebastian&trackName=The State I Am In&collectionName=Tigermilk&at=loUry/*nICo
+***** Posted ID: The State I Am In by Belle to Mastodon at Friday, November 24, 2023 02:38:16 PM
+
+Anchor tag:
+<a class="itunes-link" href="https://api.composer.nprstations.org/v1/widget/itunes?artistName=Belle &amp; Sebastian&amp;trackName=The State I Am In&amp;collectionName=Tigermilk&amp;at=loUry/*nICo" target="_blank">iTunes</a>
+.get(href):
+https://api.composer.nprstations.org/v1/widget/itunes?artistName=Belle & Sebastian&trackName=The State I Am In&collectionName=Tigermilk&at=loUry/*nICo
+***** Song: The State I Am In skipped. Friday, November 24, 2023 02:38:16 PM

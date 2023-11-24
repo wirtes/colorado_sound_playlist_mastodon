@@ -1,0 +1,9 @@
+{
+  "_comment": "Configurations settings. Keep out of repo.",
+  "playlist_url": "<URL to grab playlist info>",
+  "times_to_poll_per_minute": 3,
+  "mastodon_server": "<Your Mastodon Server>",
+  "mastodon_access_token": "<Your Mastodon Access Token",
+  "hashtags": "<A string with hashtags, use # and spaces betwen, it's just appended to the post>",
+  "database": "<the name of your sqlite3 database that holds playlist history>"
+}
